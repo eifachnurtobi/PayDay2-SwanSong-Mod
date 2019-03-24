@@ -1,0 +1,6 @@
+<mod name="SwanSong Sound Effect">
+	<AssetUpdates />
+	<AddFiles directory="Assets">
+		<movie path="SwanSongOuttaCompton"/>
+	</AddFiles>
+</mod>

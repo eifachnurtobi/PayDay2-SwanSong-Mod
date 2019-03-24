@@ -1,0 +1,15 @@
+{
+	"name" : "Swan Song Outta Compton",
+	"description": "Ever dreamt of shooting up the hood?",
+	"author": "Z I Y A И I D E",
+	"contact": "Via steam profile",
+	"color" : "1 0.87 0.12",	
+	"image" : "thumb.png",
+	"version": "1",
+	"priority": 100,
+	"blt_version": 2,
+	"hooks" : [
+		{"hook_id":"lib/managers/localizationmanager", "script_path":"Base.lua"},
+		{ "hook_id" : "lib/managers/hudmanagerpd2", "script_path" : "SwanSongEffect.lua" }
+	]
+}
